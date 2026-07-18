@@ -4,3 +4,5 @@ data/raw_data/
 __pycache__/
 .DS_Store
 data/metadata/
+data/processed/
+!data/notebooks/model_results_log.csv
